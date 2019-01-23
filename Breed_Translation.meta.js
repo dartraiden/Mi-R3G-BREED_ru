@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name		Breed Bootloader Translation
+// @name		Breed Bootloader Russian Translation
 // @description	Перевод загрузчика Breed для Xiaomi Mi Router 3G
 // @namespace	breed_mi_r3g_ru
 // @version		20181121.1
