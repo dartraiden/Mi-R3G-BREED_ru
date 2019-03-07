@@ -2,7 +2,7 @@
 // @name		Breed Bootloader Russian Translation
 // @description	Перевод загрузчика Breed для Xiaomi Mi Router 3G
 // @namespace	breed_mi_r3g_ru
-// @version		20181121.1
+// @version		20190307.1
 // @author		LESHIY_ODESSA, dartraiden
 // @include		http*://192.168.1.1/*
 // ==/UserScript==
@@ -62,6 +62,7 @@
 		"单击按钮备份相应的数据":"Нажмите кнопку для создания резервной копии соответствующих данных.",
 		"按钮以重启路由":"для перезагрузки устройства.",
 		"正在擦除 编程器固件":"Стирание",
+		"正在擦除 固件设置":"Стирание",		
 		"正在擦除 固件":"Стирание",
 		"正在擦除 Bootloader":"Стирание",
 		"正在擦除 EEPROM":"Стирание",
