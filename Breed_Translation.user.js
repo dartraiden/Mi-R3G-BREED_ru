@@ -4,7 +4,7 @@
 // @namespace	breed_mi_r3g_ru
 // @version		20190307.1
 // @author		LESHIY_ODESSA, dartraiden
-// @include		http*://192.168.1.1/*
+// @include		http://192.168.1.1/*
 // ==/UserScript==
 
 (function () {
